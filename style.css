@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: "Big John";
+    src: url(./Font/BIGJOHN.otf);
+}
+
+#poetline {
+    color: blue;
+    font-family: "Big John";
+    text-align: left;
+    line-height: 130%;
+    padding-top: 8%;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 55px;
+    word-wrap: break-word;
+}
+
+h1 {
+    color: wheat;
+    font-family: "Big John";
+    font-size: 20px;
+    padding-top: 3%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
